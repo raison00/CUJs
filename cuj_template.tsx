@@ -7,7 +7,7 @@ const CUJTemplate = () => {
     description: '',
     userPersona: '',
     goal: '',
-    platform: 'iOS',
+    platform: 'Android',
     steps: [
       {
         id: 1,
